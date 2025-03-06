@@ -1,0 +1,8 @@
+Orgs with link
+IOOS: https://github.com/ioos/gsoc/issues/72
+NIU: https://neuroinformatics.dev/get-involved/gsoc/projects_2025/datashuttle.html
+Mesa: https://github.com/projectmesa/mesa/wiki/Google-Summer-of-Code-2025
+Neovim: https://github.com/neovim/neovim/wiki/Google-Summer-of-Code#gsoc-ideas-2025
+AsyncApi: https://github.com/asyncapi/community/blob/master/mentorship/summerofcode/2025/asyncapi-gsoc-ideas-page.md
+Fedora : https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/
+NISYLAB : https://github.com/NISYSLAB/Emory-BMI-GSoC/?tab=readme-ov-file#list-of-ideas
