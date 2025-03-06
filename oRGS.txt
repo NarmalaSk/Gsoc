@@ -7,3 +7,4 @@ AsyncApi: https://github.com/asyncapi/community/blob/master/mentorship/summerofc
 Fedora : https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/
 NISYLAB : https://github.com/NISYSLAB/Emory-BMI-GSoC/?tab=readme-ov-file#list-of-ideas
 CTDS: https://docs.google.com/document/d/1kiEDB6tw2xD8Qj3uxpSELjazW35llHM1a9Nt_LQKwHw/edit?tab=t.0#heading=h.culkmufwpils
+Datafusion : https://datafusion.apache.org/contributor-guide/gsoc_project_ideas
