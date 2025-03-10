@@ -12,3 +12,4 @@ Google DeepMInd: https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e203
 IHR: https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md
 OSPO: https://ucsc-ospo.github.io/osre25/#projects
 Meshery: https://meshery.io/programs/gsoc/2025
+Internet Archive : https://docs.google.com/document/d/1oHNwPNYmHV5q3puBfv6IQFs-4gTe9XLN2iz2Lgse-1k/edit?tab=t.0#heading=h.mn497pr3rien
