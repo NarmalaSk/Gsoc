@@ -11,3 +11,4 @@ Datafusion : https://datafusion.apache.org/contributor-guide/gsoc_project_ideas
 Google DeepMInd: https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad
 IHR: https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md
 OSPO: https://ucsc-ospo.github.io/osre25/#projects
+Meshery: https://meshery.io/programs/gsoc/2025
