@@ -9,3 +9,4 @@ NISYLAB : https://github.com/NISYSLAB/Emory-BMI-GSoC/?tab=readme-ov-file#list-of
 CTDS: https://docs.google.com/document/d/1kiEDB6tw2xD8Qj3uxpSELjazW35llHM1a9Nt_LQKwHw/edit?tab=t.0#heading=h.culkmufwpils
 Datafusion : https://datafusion.apache.org/contributor-guide/gsoc_project_ideas
 Google DeepMInd: https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad
+IHR: https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md
