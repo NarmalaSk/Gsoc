@@ -1,5 +1,5 @@
 Orgs with link
-IOOS: https://github.com/ioos/gsoc/issues/72
+
 NIU: https://neuroinformatics.dev/get-involved/gsoc/projects_2025/datashuttle.html
 Mesa: https://github.com/projectmesa/mesa/wiki/Google-Summer-of-Code-2025
 Neovim: https://github.com/neovim/neovim/wiki/Google-Summer-of-Code#gsoc-ideas-2025
