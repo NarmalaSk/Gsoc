@@ -1,15 +1,7 @@
 Orgs with link
 
-NIU: https://neuroinformatics.dev/get-involved/gsoc/projects_2025/datashuttle.html
-Mesa: https://github.com/projectmesa/mesa/wiki/Google-Summer-of-Code-2025
-Neovim: https://github.com/neovim/neovim/wiki/Google-Summer-of-Code#gsoc-ideas-2025
-AsyncApi: https://github.com/asyncapi/community/blob/master/mentorship/summerofcode/2025/asyncapi-gsoc-ideas-page.md
-Fedora : https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/
-NISYLAB : https://github.com/NISYSLAB/Emory-BMI-GSoC/?tab=readme-ov-file#list-of-ideas
 CTDS: https://docs.google.com/document/d/1kiEDB6tw2xD8Qj3uxpSELjazW35llHM1a9Nt_LQKwHw/edit?tab=t.0#heading=h.culkmufwpils
-Datafusion : https://datafusion.apache.org/contributor-guide/gsoc_project_ideas
-Google DeepMInd: https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad
+
 IHR: https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md
-OSPO: https://ucsc-ospo.github.io/osre25/#projects
-Meshery: https://meshery.io/programs/gsoc/2025
-Internet Archive : https://docs.google.com/document/d/1oHNwPNYmHV5q3puBfv6IQFs-4gTe9XLN2iz2Lgse-1k/edit?tab=t.0#heading=h.mn497pr3rien
+
+Fedora : https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/
