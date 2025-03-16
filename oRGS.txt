@@ -4,7 +4,6 @@ CTDS: https://docs.google.com/document/d/1kiEDB6tw2xD8Qj3uxpSELjazW35llHM1a9Nt_L
 
 IHR: https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md
 
-Fedora : https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/
 
 KDE :https://community.kde.org/GSoC/2025/Ideas
 
